@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soban-Sikandar-205
+- 👋 Hi, I’m @Soban-Sikandar
 - 
 - 🌱 I’m currently a PYTHON programmer (Beginner)
 - 💞️ I’m looking to collaborate with person working on PYTHON .
