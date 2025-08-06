@@ -2,7 +2,7 @@
   
 - 🌱 I’m currently a PYTHON programmer (Beginner)
 - 💞️ I’m looking to collaborate with person working on PYTHON .
-- 📫 How to reach me (You can dm me) .
+- 📫 How to reach me (You can dm me) at msobansikandar@gmail.com / 923286519678 .
 - A freelancer and wordpress developer.
 
 - As a dedicated BS Software Engineering student, I am committed to bringing precision and professionalism to every project I undertake. I believe that each opportunity I receive—whether it's through freelance platforms like Upwork or collaborative projects—is a stepping stone toward my professional growth. That's why I prioritize delivering high-quality work on time, with a strong focus on detail and client satisfaction.
