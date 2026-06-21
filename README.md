@@ -1,84 +1,204 @@
-- 👋 Hi, I’m @Soban-Sikandar
-  
-- 🌱 I’m currently a PYTHON programmer (Beginner)
-- 💞️ I’m looking to collaborate with person working on PYTHON .
-- 📫 How to reach me (You can dm me) at msobansikandar@gmail.com / 923286519678 .
-- A freelancer and wordpress developer.
+Hi, I'm Soban Sikandar 👋
+BS Software Engineering Student | Python Programmer | Flutter Developer | WordPress Developer | Freelancer
 
-- As a dedicated BS Software Engineering student, I am committed to bringing precision and professionalism to every project I undertake. I believe that each opportunity I receive—whether it's through freelance platforms like Upwork or collaborative projects—is a stepping stone toward my professional growth. That's why I prioritize delivering high-quality work on time, with a strong focus on detail and client satisfaction.
+I am a passionate and dedicated BS Software Engineering student with a strong interest in software development, mobile applications, web technologies, and problem-solving. I continuously strive to improve my technical expertise and deliver high-quality solutions that meet client and business requirements.
 
-My expertise spans across data entry, lead generation, CRM management, web research, LinkedIn marketing, and more, making me a valuable asset to any team.
+I believe every project is an opportunity to learn, grow, and create value. Whether working independently or collaborating with a team, I focus on professionalism, attention to detail, timely delivery, and client satisfaction.
 
-✔️ Extremely fast, efficient, and meticulous
-✔️ Excellent communication skills
-✔️ Proven track record with outstanding client feedback
-✔️ Tech-savvy and resourceful
-✔️ Quick learner with a results-driven mindset
-✔️ Fast project turnaround time
-✔️ Dedicated to delivering 100% client satisfaction
 
-My Services:
-🔹 Lead Generation
-🔹 Contact List Building
-🔹 Data Entry
-🔹 Admin Support
-🔹 Real Estate VA
-🔹 CRM Management
-🔹 Virtual Assistance
-🔹 Email Handling
-🔹 LinkedIn Recruiting
-🔹 Email Marketing
-🔹 Web Research
-🔹 Data Scraping
-🔹 Cold Email Marketing
-🔹 Skip Tracing
-🔹 Google Sheets
-🔹 MS Excel
-🔹 MS Word
-🔹 MS Ppt
-🔹 PDF to Excel Conversion
-🔹 Canva Expert
-🔹 Capcut Expert
-🔹 Adobe Expert
+🌱 Currently Learning
 
-Advanced Tools I Use:
-❀ Lead Generation & Data Mining
-🔹 LinkedIn Sales Navigator
-🔹 Lead IQ
-🔹 Nymeria
-🔹 Aero Leads
-🔹 Snov.io
-🔹 Hunter.io
-🔹 Clearbit Apollo
-🔹 Contactout
-🔹 Kendo
-🔹 Email hunter
+Advanced Python Programming
+Flutter Mobile App Development
+Artificial Intelligence & Machine Learning
+Software Testing & Quality Assurance
+System Design & Software Architecture
 
-❀ CRM & Organization:
-🔹 HubSpot CRM
-🔹 ClickUp
-🔹 Slack
 
-❀ Web Research & Data Extraction:
-🔹 ZoomInfo
-🔹 BeenVerified
-🔹 Rocket Search
-🔹 Lead Leaper
-🔹 Kendo
+💞️ Looking to Collaborate On
 
-❀ Marketing & Design:
-🔹 Canva
-🔹 SalesQL
+Python Projects
+Flutter Mobile Applications
+Web Development Projects
+Open Source Software
+Software Engineering Research & Development
 
-I am always eager to expand my expertise, adapt to new challenges, and help businesses streamline their operations with efficiency and accuracy. Let’s connect and discuss how I can contribute to your success.
 
-▪️ Thanks for looking at my profile and I hope you can give me a chance to show my talent and skills.
+📫 Contact Information
 
-Looking forward to hearing from you.
+Email: msobansikandar@gmail.com
+Phone: +92 328 6519678
+GitHub: @Soban-Sikandar
 
-Thank you!
 
-<!---
-Soban-Sikandar-205/Soban-Sikandar-205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Technical Skills
+
+Programming Languages
+Python
+Java
+JavaScript
+C
+C++
+HTML5
+CSS3
+SQL
+Mobile App Development
+Flutter
+Dart
+Firebase Authentication
+Cloud Firestore
+Real-Time Database
+Google Maps Integration
+Location Services
+WebRTC Calling Integration
+
+
+Web Development
+
+WordPress Development
+Responsive Website Design
+Frontend Development
+Backend Development
+Node.js
+Express.js
+REST APIs
+Database Technologies
+MySQL
+Firebase Firestore
+SQLite
+
+
+Software Engineering
+
+Software Requirements Specification (SRS)
+Software Design Documents (SDD)
+UML Diagrams
+Use Case Modeling
+Risk Management
+Agile Methodology
+SDLC
+Software Architecture
+
+
+Software Testing
+
+Unit Testing
+Integration Testing
+Boundary Value Analysis (BVA)
+Equivalence Partitioning
+Test Case Design
+Quality Assurance
+Artificial Intelligence
+Search Algorithms
+Informed & Uninformed Search
+Problem Solving Techniques
+AI Fundamentals
+
+
+🚀 Projects
+
+AuctioNex – Online Auction Platform
+Real-time online bidding system
+User authentication and authorization
+Auction management system
+Admin dashboard
+Secure bidding functionality
+Flutter Chat Application
+Real-time messaging
+Online/Offline status
+Location sharing
+Story feature
+Voice & Video Calling using WebRTC
+Firebase integration
+Recipe Website
+Recipe management system
+User-friendly interface
+Dynamic content management
+Student Management System
+Student records management
+Database integration
+Administrative functionalities
+
+
+🛠 Freelancing & Virtual Assistance Skills
+
+Lead Generation & Data Mining
+Lead Generation
+B2B Lead Generation
+Contact List Building
+Prospect Research
+Data Mining
+Data Collection
+Administrative Support
+
+
+Virtual Assistance
+
+CRM Management
+Admin Support
+Email Handling
+Calendar Management
+Research & Marketing
+Web Research
+
+
+LinkedIn Recruiting
+
+LinkedIn Marketing
+Email Marketing
+Cold Email Outreach
+Market Research
+Data Management
+Data Entry
+Data Scraping
+
+
+PDF to Excel Conversion
+
+Google Sheets
+Microsoft Excel
+Microsoft Word
+Microsoft PowerPoint
+Design & Content Creation
+Canva
+CapCut
+Adobe Creative Suite
+
+
+🔧 Professional Tools
+
+Lead Generation Tools
+LinkedIn Sales Navigator
+Apollo.io
+Hunter.io
+Snov.io
+LeadIQ
+AeroLeads
+ContactOut
+Nymeria
+SalesQL
+CRM & Productivity
+HubSpot CRM
+ClickUp
+Slack
+Research & Data Extraction
+ZoomInfo
+RocketReach
+LeadLeaper
+BeenVerified
+
+
+Why Work With Me?
+
+✔ Strong Software Engineering Background
+✔ Fast Learner and Problem Solver
+✔ Excellent Communication Skills
+✔ Detail-Oriented and Reliable
+✔ Quick Turnaround Time
+✔ Commitment to Quality Work
+✔ Client Satisfaction Focused
+✔ Ability to Work Independently and in Teams
+
+I am always eager to learn new technologies, solve challenging problems, and help businesses achieve their goals through innovative and efficient solutions.
+
+Thank you for visiting my profile. I look forward to collaborating with you and contributing to your success.
